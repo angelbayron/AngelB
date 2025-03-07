@@ -1,0 +1,115 @@
+---
+title: "Logistic Regression Analysis on Baseball Hitting Data"
+author: "GitHub Copilot"
+date: "2025-03-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+In this analysis, we will use the baseball hitting data to estimate a set of logistic regression models with increasing complexity. We will conduct a likelihood ratio test and use AIC and BIC to select the best model. We will then interpret the results.
+
+## Data Preparation
+
+First, we load the necessary libraries and the dataset.
+
+```{r}
+library(tidyverse)
+library(broom)
+library(car)
+
+# Load the data
+url <- "https://raw.githubusercontent.com/angelbayron/AngelB/main/baseball_hitting.csv"
+data <- read_csv(url)
+```
+
+Let's take a look at the first few rows of the dataset.
+
+```{r}
+head(data)
+```
+
+## Data Cleaning
+
+We need to clean the data and create a binary variable for our logistic regression analysis. Let's create a binary variable `High_HR` indicating whether a player has hit more than 400 home runs.
+
+```{r}
+data <- data %>%
+  mutate(High_HR = ifelse(`home run` > 400, 1, 0))
+```
+
+## Model Building
+
+We will build logistic regression models with increasing complexity and compare them using AIC and BIC.
+
+### Model 1: Simple Model
+
+Our first model will include only the `At-bat` variable.
+
+```{r}
+model1 <- glm(High_HR ~ `At-bat`, data = data, family = binomial)
+summary(model1)
+```
+
+### Model 2: Adding `Runs`
+
+The second model will include `At-bat` and `Runs`.
+
+```{r}
+model2 <- glm(High_HR ~ `At-bat` + Runs, data = data, family = binomial)
+summary(model2)
+```
+
+### Model 3: Adding `Hits`
+
+The third model will include `At-bat`, `Runs`, and `Hits`.
+
+```{r}
+model3 <- glm(High_HR ~ `At-bat` + Runs + Hits, data = data, family = binomial)
+summary(model3)
+```
+
+### Model 4: Adding `AVG`
+
+The fourth model will include `At-bat`, `Runs`, `Hits`, and `AVG`.
+
+```{r}
+model4 <- glm(High_HR ~ `At-bat` + Runs + Hits + AVG, data = data, family = binomial)
+summary(model4)
+```
+
+## Model Comparison
+
+We will compare the models using AIC and BIC.
+
+```{r}
+AIC(model1, model2, model3, model4)
+BIC(model1, model2, model3, model4)
+```
+
+## Likelihood Ratio Test
+
+We will conduct a likelihood ratio test to compare the models.
+
+```{r}
+anova(model1, model2, model3, model4, test = "LRT")
+```
+
+## Model Interpretation
+
+Based on the AIC, BIC, and likelihood ratio test, we choose the best model. Let's interpret the results of the best model.
+
+```{r}
+best_model <- model4
+summary(best_model)
+```
+
+The coefficients of the logistic regression model represent the log-odds of the binary outcome (`High_HR`) for a one-unit increase in the predictor variable, holding other variables constant. The p-values indicate the significance of each predictor in the model.
+
+## Conclusion
+
+In this analysis, we estimated a set of logistic regression models with increasing complexity to predict whether a player has hit more than 400 home runs. We used AIC and BIC to select the best model and conducted a likelihood ratio test to compare the models. We then interpreted the results of the best model.
