@@ -1,0 +1,959 @@
+Player,Team,Position,Salary,Years,Total value,Average Annual
+"Ohtani, Shohei",Dodgers,DH/RHP,"$70,000,000",10,"$700,000,000","$70,000,000"
+"Scherzer, Max",Rangers,RHP,"$43,333,334",3,"$130,000,000","$43,333,333.33"
+"Verlander, Justin",Astros,RHP,"$43,333,333",2,"$86,666,666","$43,333,333"
+"deGrom, Jacob",Rangers,RHP,"$40,000,000",5,"$185,000,000","$37,000,000"
+"Judge, Aaron",Yankees,OF,"$40,000,000",9,"$360,000,000","$40,000,000"
+"Rendon, Anthony",Angels,3,"$38,571,429",7,"$245,000,000","$35,000,000"
+"Trout, Mike",Angels,OF,"$37,116,667",12,"$426,500,000","$35,541,666.67"
+"Cole, Gerrit",Yankees,RHP,"$36,000,000",9,"$324,000,000","$36,000,000"
+"Seager, Corey",Rangers,SS,"$35,000,000",10,"$325,000,000","$32,500,000"
+"Corbin, Patrick",Nationals,LHP,"$34,556,200",6,"$140,000,000","$23,333,333.33"
+"Correa, Carlos",Twins,SS,"$33,333,333",6,"$200,000,000","$33,333,333"
+"Strasburg, Stephen",Nationals,RHP,"$32,811,200",7,"$245,000,000","$35,000,000"
+"Arenado, Nolan",Cardinals,3,"$32,675,167",8,"$260,000,000","$32,500,000"
+"Lindor, Francisco",Mets,SS,"$32,477,639",10,"$341,000,000","$34,100,000"
+"Snell, Blake",Giants,LHP,"$32,000,000",2,"$62,000,000","$31,000,000"
+"Stanton, Giancarlo",Yankees,DH,"$32,000,000",13,"$325,000,000","$25,000,000"
+"Soto, Juan",Yankees,OF,"$31,000,000",,$0,$0
+"Bregman, Alex",Astros,3,"$30,500,000",5,"$100,000,000","$20,000,000"
+"Altuve, Jose",Astros,2,"$29,000,000",7,"$163,500,000","$23,357,142.86"
+"Bryant, Kris",Rockies,1,"$28,000,000",7,"$182,000,000","$26,000,000"
+"Rodon, Carlos",Yankees,LHP,"$27,833,333",6,"$162,000,000","$27,000,000"
+"Harper, Bryce",Phillies,1,"$27,538,462",13,"$330,000,000","$25,384,615.38"
+"Bellinger, Cody",Cubs,OF,"$27,500,000",3,"$80,000,000","$26,666,667"
+"Turner, Trea",Phillies,SS,"$27,272,727",11,"$300,000,000","$27,272,727"
+"Devers, Rafael",Red Sox,3,"$27,066,581",10,"$313,500,000","$31,350,000"
+"Betts, Mookie",Dodgers,SS,"$26,158,692",12,"$365,000,000","$30,416,666.67"
+"Swanson, Dansby",Cubs,SS,"$26,000,000",7,"$177,000,000","$25,285,714"
+"Semien, Marcus",Rangers,2,"$26,000,000",7,"$175,000,000","$25,000,000"
+"Bogaerts, Xander",Padres,2,"$25,454,545",11,"$280,000,000","$25,454,545"
+"Goldschmidt, Paul",Cardinals,1,"$25,333,333",5,"$130,000,000","$26,000,000"
+"Freeman, Freddie",Dodgers,1,"$25,144,772",6,"$162,000,000","$27,000,000"
+"Baez, Javier",Tigers,SS,"$25,000,000",6,"$140,000,000","$23,333,333.33"
+"Moncada, Yoan",White Sox,3,"$24,800,000",5,"$70,000,000","$14,000,000"
+"Nola, Aaron",Phillies,RHP,"$24,571,428",7,"$172,000,000","$24,571,429"
+"Yelich, Christian",Brewers,OF,"$24,170,234",9,"$215,000,000","$23,888,888.89"
+"Springer, George",Blue Jays,OF,"$24,166,667",6,"$150,000,000","$25,000,000"
+"Castillo, Luis",Mariners,RHP,"$24,150,000",5,"$108,000,000","$21,600,000"
+"Realmuto, JT",Phillies,C,"$23,875,000",5,"$115,500,000","$23,100,000"
+"Hernandez, Teoscar",Dodgers,OF,"$23,500,000",,$0,$0
+"Wheeler, Zack",Phillies,RHP,"$23,500,000",5,"$118,000,000","$23,600,000"
+"Ray, Robbie",Giants,LHP,"$23,000,000",5,"$115,000,000","$23,000,000"
+"Story, Trevor",Red Sox,SS,"$22,500,000",6,"$140,000,000","$23,333,333.33"
+"Bassitt, Chris",Blue Jays,RHP,"$22,000,000",3,"$63,000,000","$21,000,000"
+"Gausman, Kevin",Blue Jays,RHP,"$22,000,000",5,"$110,000,000","$22,000,000"
+"Olson, Matt",Braves,1,"$22,000,000",8,"$168,000,000","$21,000,000"
+"Riley, Austin",Braves,3,"$21,000,000",10,"$212,000,000","$21,200,000"
+"Happ, Ian",Cubs,OF,"$21,000,000",3,"$61,000,000","$20,333,333"
+"Suzuki, Seiya",Cubs,OF,"$21,000,000",5,"$85,000,000","$17,000,000"
+"Marte, Starling",Mets,OF,"$20,750,000",4,"$78,000,000","$19,500,000"
+"Alonso, Pete",Mets,1,"$20,500,000",,$0,$0
+"Nimmo, Brandon",Mets,OF,"$20,500,000",8,"$162,000,000","$20,250,000"
+"Morton, Charlie",Braves,RHP,"$20,000,000",,$0,$0
+"Musgrove, Joe",Padres,RHP,"$20,000,000",5,"$100,000,000","$20,000,000"
+"Castellanos, Nick",Phillies,OF,"$20,000,000",5,"$100,000,000","$20,000,000"
+"Schwarber, Kyle",Phillies,DH,"$20,000,000",4,"$79,000,000","$19,750,000"
+"Perez, Salvador",Royals,C,"$20,000,000",4,"$82,000,000","$20,500,000"
+"Guerrero Jr., Vladimir",Blue Jays,1,"$19,900,000",,$0,$0
+"Abreu, Jose",Astros,1,"$19,500,000",3,"$58,500,000","$19,500,000"
+"Hader, Josh",Astros,LHP,"$19,000,000",5,"$95,000,000","$19,000,000"
+"Yoshida, Masataka",Red Sox,OF,"$18,600,000",5,"$90,000,000","$18,000,000"
+,,,,,,
+Player,Team,Position,Salary,Years,Total value,Average Annual
+"Stroman, Marcus",Yankees,RHP,"$18,500,000",2,"$37,000,000","$18,500,000"
+"Diaz, Edwin",Mets,RHP,"$18,256,300",5,"$102,000,000","$20,400,000"
+"Berrios, Jose",Blue Jays,RHP,"$18,000,000",7,"$131,000,000","$18,714,285.71"
+"Ozuna, Marcell",Braves,DH,"$18,000,000",4,"$65,000,000","$16,250,000"
+"Contreras, Willson",Cardinals,C,"$18,000,000",5,"$87,500,000","$17,500,000"
+"Taillon, Jameson",Cubs,RHP,"$18,000,000",4,"$68,000,000","$17,000,000"
+"Chapman, Matt",Giants,3,"$18,000,000",3,"$54,000,000","$18,000,000"
+"Conforto, Michael",Giants,OF,"$18,000,000",2,"$36,000,000","$18,000,000"
+"Walker, Taijuan",Phillies,RHP,"$18,000,000",4,"$72,000,000","$18,000,000"
+"Giolito, Lucas",Red Sox,RHP,"$18,000,000",2,"$38,500,000","$19,250,000"
+"McCullers Jr., Lance",Astros,RHP,"$17,700,000",5,"$85,000,000","$17,000,000"
+"Mikolas, Miles",Cardinals,RHP,"$17,666,667",3,"$55,750,000","$18,583,333"
+"Benintendi, Andrew",White Sox,OF,"$17,100,000",5,"$75,000,000","$15,000,000"
+"Machado, Manny",Padres,3,"$17,090,909",11,"$350,000,000","$31,818,182"
+"Acuna Jr., Ronald",Braves,OF,"$17,000,000",8,"$100,000,000","$12,500,000"
+"Ramirez, Jose",Guardians,3,"$17,000,000",7,"$141,000,000","$20,142,857.14"
+"Haniger, Mitch",Mariners,OF,"$17,000,000",3,"$43,500,000","$14,500,000"
+"Eovaldi, Nathan",Rangers,RHP,"$17,000,000",2,"$34,000,000","$17,000,000"
+"Rizzo, Anthony",Yankees,1,"$17,000,000",2,"$40,000,000","$20,000,000"
+"Hendricks, Kyle",Cubs,RHP,"$16,500,000",,$0,$0
+"Bell, Josh",Marlins,1,"$16,500,000",2,"$33,000,000","$16,500,000"
+"Iglesias, Raisel",Braves,RHP,"$16,000,000",4,"$58,000,000","$14,500,000"
+"Sale, Chris",Braves,LHP,"$16,000,000",2,"$38,000,000","$18,000,000"
+"Darvish, Yu",Padres,RHP,"$16,000,000",6,"$108,000,000","$18,000,000"
+"Jansen, Kenley",Red Sox,RHP,"$16,000,000",2,"$32,000,000","$16,000,000"
+"Montas, Frankie",Reds,RHP,"$16,000,000",,$0,$0
+"Wacha, Michael",Royals,RHP,"$16,000,000",2,"$32,000,000","$16,000,000"
+"Senga, Kodai",Mets,RHP,"$15,666,667",5,"$75,000,000","$15,000,000"
+"Burnes, Corbin",Orioles,RHP,"$15,637,500",,$0,$0
+"Buxton, Byron",Twins,OF,"$15,142,857",7,"$100,000,000","$14,285,714.29"
+"Fried, Max",Braves,LHP,"$15,000,000",,$0,$0
+"Glasnow, Tyler",Dodgers,RHP,"$15,000,000",5,"$136,562,500","$27,312,500"
+"Freeland, Kyle",Rockies,LHP,"$15,000,000",5,"$64,500,000","$12,900,000"
+"Lugo, Seth",Royals,RHP,"$15,000,000",3,"$45,000,000","$15,000,000"
+"LeMahieu, DJ",Yankees,3,"$15,000,000",6,"$90,000,000","$15,000,000"
+"Manaea, Sean",Mets,LHP,"$14,500,000",2,"$28,000,000","$14,000,000"
+"Torres, Gleyber",Yankees,2,"$14,200,000",,$0,$0
+"Pressly, Ryan",Astros,RHP,"$14,000,000",2,"$30,000,000","$15,000,000"
+"Rodriguez, Eduardo",Diamondbacks,LHP,"$14,000,000",4,"$80,000,000","$20,000,000"
+"Martinez, Nick",Reds,RHP,"$14,000,000",2,"$26,000,000","$13,000,000"
+"Flaherty, Jack",Tigers,RHP,"$14,000,000",,$0,$0
+"Maeda, Kenta",Tigers,RHP,"$14,000,000",2,"$24,000,000","$12,000,000"
+"Jimenez, Eloy",White Sox,DH,"$13,833,333",6,"$43,000,000","$7,166,666.67"
+"Marte, Ketel",Diamondbacks,2,"$13,600,000",5,"$76,000,000","$15,200,000"
+"Smith, Will",Dodgers,C,"$13,550,000",10,"$140,000,000",$0
+"Bieber, Shane",Guardians,RHP,"$13,125,000",,$0,$0
+"Anderson, Tyler",Angels,LHP,"$13,000,000",3,"$39,000,000","$13,000,000"
+"Turner, Justin",Blue Jays,DH,"$13,000,000",,$0,$0
+"Taylor, Chris",Dodgers,OF,"$13,000,000",4,"$60,000,000","$15,000,000"
+"Quintana, Jose",Mets,LHP,"$13,000,000",2,"$26,000,000","$13,000,000"
+"Severino, Luis",Mets,RHP,"$13,000,000",,$0,$0
+"Gray, Jon",Rangers,RHP,"$13,000,000",4,"$56,000,000","$14,000,000"
+"Heaney, Andrew",Rangers,LHP,"$13,000,000",2,"$25,000,000","$12,500,000"
+"Candelario, Jeimer",Reds,3,"$13,000,000",3,"$45,000,000","$15,000,000"
+"Blackmon, Charlie",Rockies,DH,"$13,000,000",,$0,$0
+"Stripling, Ross",Athletics,RHP,"$12,500,000",2,"$25,000,000","$12,500,000"
+"Matz, Steven",Cardinals,LHP,"$12,500,000",4,"$44,000,000","$11,000,000"
+"Robert Jr., Luis",White Sox,OF,"$12,500,000",6,"$50,000,000","$8,333,333.33"
+"Adames, Willy",Brewers,SS,"$12,250,000",,$0,$0
+"Rodriguez, Julio",Mariners,OF,"$12,185,714",12,"$209,300,000","$17,441,667"
+"Valdez, Framber",Astros,LHP,"$12,100,000",,$0,$0
+"Bichette, Bo",Blue Jays,SS,"$12,083,333",3,"$33,600,000","$11,200,000"
+"Tucker, Kyle",Astros,OF,"$12,000,000",,$0,$0
+"Hoskins, Rhys",Brewers,1,"$12,000,000",2,"$34,000,000","$17,000,000"
+"Gibson, Kyle",Cardinals,RHP,"$12,000,000",,$0,$0
+"Rogers, Taylor",Giants,LHP,"$12,000,000",3,"$33,000,000","$11,000,000"
+"Garcia, Avisail",Marlins,OF,"$12,000,000",4,"$53,000,000","$13,250,000"
+"Kimbrel, Craig",Orioles,RHP,"$12,000,000",,$0,$0
+"McCann, James",Orioles,C,"$12,000,000",4,"$40,600,000","$10,150,000"
+"Gonzales, Marco",Pirates,LHP,"$12,000,000",4,"$30,000,000","$7,500,000"
+"McMahon, Ryan",Rockies,3,"$12,000,000",6,"$70,000,000","$11,666,667"
+"Senzatela, Antonio",Rockies,RHP,"$12,000,000",5,"$50,500,000","$10,100,000"
+"DeSclafani, Anthony",Twins,RHP,"$12,000,000",3,"$36,000,000","$12,000,000"
+"Tatis Jr., Fernando",Padres,OF,"$11,714,286",14,"$340,000,000","$24,285,714.29"
+"Santander, Anthony",Orioles,OF,"$11,700,000",,$0,$0
+"Montero, Rafael",Astros,RHP,"$11,500,000",3,"$34,500,000","$11,500,000"
+"Hoerner, Nico",Cubs,2,"$11,500,000",3,"$35,000,000","$11,666,667"
+"Canha, Mark",Tigers,OF,"$11,500,000",,$0,$0
+"Stephenson, Robert",Angels,RHP,"$11,000,000",3,"$33,000,000","$11,000,000"
+"Suarez, Eugenio",Diamondbacks,3,"$11,000,000",7,"$66,000,000","$9,428,571.43"
+"Crawford, J.P.",Mariners,SS,"$11,000,000",5,"$51,000,000","$10,200,000"
+"Eflin, Zach",Rays,RHP,"$11,000,000",3,"$40,000,000","$13,333,333"
+"Walker, Christian",Diamondbacks,1,"$10,900,000",,$0,$0
+"Alvarez, Yordan",Astros,DH,"$10,833,333",6,"$115,000,000","$19,166,667"
+"Arraez, Luis",Marlins,2,"$10,600,000",,$0,$0
+"Green, Chad",Blue Jays,RHP,"$10,500,000",2,"$8,500,000","$4,250,000"
+"Kiermaier, Kevin",Blue Jays,OF,"$10,500,000",,$0,$0
+"Smyly, Drew",Cubs,LHP,"$10,500,000",2,"$19,000,000","$9,500,000"
+"Garver, Mitch",Mariners,DH,"$10,500,000",2,"$24,000,000","$12,000,000"
+"Polanco, Jorge",Mariners,2,"$10,500,000",,$0,$0
+"Bader, Harrison",Mets,OF,"$10,500,000",,$0,$0
+"Chapman, Aroldis",Pirates,LHP,"$10,500,000",,$0,$0
+"McNeil, Jeff",Mets,2,"$10,250,000",4,"$50,000,000","$12,500,000"
+"Reynolds, Bryan",Pirates,OF,"$10,250,000",8,"$106,750,000","$13,343,750"
+"Hicks, Aaron",Angels,OF,"$10,240,000",7,"$70,000,000","$10,000,000"
+"Gallen, Zac",Diamondbacks,RHP,"$10,011,000",,$0,$0
+"Kikuchi, Yusei",Blue Jays,LHP,"$10,000,000",3,"$36,000,000","$12,000,000"
+"Gray, Sonny",Cardinals,RHP,"$10,000,000",3,"$75,000,000","$25,000,000"
+"Lynn, Lance",Cardinals,RHP,"$10,000,000",,$0,$0
+"Gurriel Jr., Lourdes",Diamondbacks,OF,"$10,000,000",3,"$42,000,000","$14,000,000"
+"Cobb, Alex",Giants,RHP,"$10,000,000",,$0,$0
+"Soler, Jorge",Giants,DH,"$10,000,000",3,"$42,000,000","$14,000,000"
+"Suarez, Robert",Padres,RHP,"$10,000,000",5,"$46,000,000","$9,200,000"
+"Marquez, German",Rockies,RHP,"$10,000,000",2,"$20,000,000","$10,000,000"
+"Kepler, Max",Twins,OF,"$10,000,000",,$0,$0
+"Margot, Manuel",Twins,OF,"$10,000,000",,$0,$0
+"Vazquez, Christian",Twins,C,"$10,000,000",3,"$30,000,000","$10,000,000"
+"Imanaga, Shota",Cubs,LHP,"$9,500,000",4,"$53,000,000","$13,250,000"
+"Pederson, Joc",Diamondbacks,OF,"$9,500,000",,$0,$0
+"Muncy, Max",Dodgers,3,"$9,500,000",2,"$24,000,000","$12,000,000"
+"Martin, Chris",Red Sox,RHP,"$9,500,000",2,"$17,500,000","$8,750,000"
+"Bard, Daniel",Rockies,RHP,"$9,500,000",,$0,$0
+"Alcantara, Sandy",Marlins,RHP,"$9,300,000",5,"$56,000,000","$11,200,000"
+"Yamamoto, Yoshinobu",Dodgers,RHP,"$9,166,667",12,"$325,000,000","$27,083,333"
+"Alvarado, Jose",Phillies,LHP,"$9,025,000",3,"$22,000,000","$11,000,000"
+"Moore, Matt",Angels,LHP,"$9,000,000",,$0,$0
+"Murphy, Sean",Braves,C,"$9,000,000",6,"$73,000,000","$12,166,667"
+"Neris, Hector",Cubs,RHP,"$9,000,000",,$0,$0
+"Heyward, Jason",Dodgers,OF,"$9,000,000",,$0,$0
+"Lowe, Brandon",Rays,2,"$8,750,000",6,"$24,000,000","$4,000,000"
+"Verdugo, Alex",Yankees,OF,"$8,700,000",,$0,$0
+"Drury, Brandon",Angels,DH,"$8,500,000",2,"$17,000,000","$8,500,000"
+"Wood, Alex",Athletics,LHP,"$8,500,000",,$0,$0
+"Miley, Wade",Brewers,LHP,"$8,500,000",,$0,$0
+"Kelly, Merrill",Diamondbacks,RHP,"$8,500,000",2,"$18,000,000","$9,000,000"
+"Lyles, Jordan",Royals,RHP,"$8,500,000",2,"$17,000,000","$8,500,000"
+"Robertson, David",Rangers,RHP,"$8,283,253",,$0,$0
+"Lee, Jung-Hoo",Giants,OF,"$8,250,000",6,"$113,000,000","$18,833,333"
+"Lopez, Pablo",Twins,RHP,"$8,250,000",4,"$73,500,000","$18,375,000"
+"Arozarena, Randy",Rays,OF,"$8,100,000",,$0,$0
+"Buehler, Walker",Dodgers,RHP,"$8,025,000",,$0,$0
+"Graveman, Kendall",Astros,RHP,"$8,000,000",3,"$24,000,000","$8,000,000"
+"Diaz, Aledmys",Athletics,INF,"$8,000,000",2,"$14,500,000","$7,250,000"
+"d'Arnaud, Travis",Braves,C,"$8,000,000",,$0,$0
+"Jimenez, Joe",Braves,RHP,"$8,000,000",3,"$26,000,000","$8,666,667"
+"Kelly, Joe",Dodgers,RHP,"$8,000,000",,$0,$0
+"Webb, Logan",Giants,RHP,"$8,000,000",5,"$90,000,000","$18,000,000"
+"Cease, Dylan",Padres,RHP,"$8,000,000",,$0,$0
+"Kim, Ha-Seong",Padres,SS,"$8,000,000",4,"$28,000,000","$7,000,000"
+"Perez, Martin",Pirates,LHP,"$8,000,000",,$0,$0
+"Diaz, Yandy",Rays,1,"$8,000,000",3,"$24,000,000","$8,000,000"
+"Pagan, Emilio",Reds,RHP,"$8,000,000",2,"$16,000,000","$8,000,000"
+"Yastrzemski, Mike",Giants,OF,"$7,900,000",,$0,$0
+"Romano, Jordan",Blue Jays,RHP,"$7,750,000",,$0,$0
+"Kiner-Falefa, Isiah",Blue Jays,3,"$7,500,000",2,"$15,000,000","$7,500,000"
+"Strahm, Matt",Phillies,LHP,"$7,500,000",2,"$15,000,000","$7,500,000"
+"Lowe, Nate",Rangers,1,"$7,500,000",,$0,$0
+"Pivetta, Nick",Red Sox,RHP,"$7,500,000",,$0,$0
+"Fedde, Erick",White Sox,RHP,"$7,500,000",2,"$15,000,000","$7,500,000"
+"Javier, Cristian",Astros,RHP,"$7,400,000",5,"$64,000,000","$12,800,000"
+"Sewald, Paul",Diamondbacks,RHP,"$7,350,000",,$0,$0
+"Cronenworth, Jake",Padres,1,"$7,285,714",7,"$80,000,000","$11,428,571"
+"Albies, Ozzie",Braves,2,"$7,000,000",7,"$35,000,000","$5,000,000"
+"Johnson, Pierce",Braves,RHP,"$7,000,000",2,"$14,250,000","$7,125,000"
+"Williams, Devin",Brewers,RHP,"$7,000,000",,$0,$0
+"Edman, Tommy",Cardinals,SS,"$7,000,000",2,"$16,500,000","$8,250,000"
+"Paxton, James",Dodgers,LHP,"$7,000,000",,$0,$0
+"Narvaez, Omar",Mets,C,"$7,000,000",2,"$15,000,000","$7,500,000"
+"Williams, Trevor",Nationals,RHP,"$7,000,000",2,"$13,000,000","$6,500,000"
+"Merrifield, Whit",Phillies,INF,"$7,000,000",,$0,$0
+"Hayes, Ke'Bryan",Pirates,3,"$7,000,000",8,"$70,000,000","$8,750,000"
+"Stassi, Max",White Sox,C,"$7,000,000",3,"$17,500,000","$5,833,333.33"
+"France, Ty",Mariners,1,"$6,775,000",,$0,$0
+"Estevez, Carlos",Angels,RHP,"$6,750,000",2,"$13,500,000","$6,750,000"
+"Barlow, Scott",Guardians,RHP,"$6,700,000",,$0,$0
+"Naylor, Josh",Guardians,1,"$6,550,000",,$0,$0
+"Quantrill, Cal",Rockies,RHP,"$6,550,000",,$0,$0
+"Flores, Wilmer",Giants,SS,"$6,500,000",,$0,$0
+"Hicks, Jordan",Giants,RHP,"$6,500,000",4,"$44,000,000","$11,000,000"
+"Jackson, Luke",Giants,RHP,"$6,500,000",2,"$11,500,000","$5,750,000"
+"Raley, Brooks",Mets,LHP,"$6,500,000",,$0,$0
+"Ruiz, Keibert",Nationals,C,"$6,375,000",8,"$50,000,000","$6,250,000"
+"Mullins, Cedric",Orioles,OF,"$6,325,000",,$0,$0
+"Hays, Austin",Orioles,OF,"$6,300,000",,$0,$0
+"Leclerc, Jose",Rangers,RHP,"$6,250,000",,$0,$0
+"Maton, Phil",Rays,RHP,"$6,250,000",,$0,$0
+"Carpenter, Matt",Cardinals,DH,"$6,240,000",2,"$12,000,000","$6,000,000"
+"Minter, A.J.",Braves,LHP,"$6,220,000",,$0,$0
+"Farmer, Kyle",Twins,2,"$6,050,000",,$0,$0
+"Caratini, Victor",Astros,C,"$6,000,000",2,"$12,000,000","$6,000,000"
+"Garcia, Yimi",Blue Jays,RHP,"$6,000,000",,$0,$0
+"Gomes, Yan",Cubs,C,"$6,000,000",,$0,$0
+"Diaz, Elias",Rockies,C,"$6,000,000",3,"$14,500,000","$4,833,333.33"
+"Holmes, Clay",Yankees,RHP,"$6,000,000",,$0,$0
+"O'Neill, Tyler",Red Sox,OF,"$5,850,000",,$0,$0
+"Gallegos, Giovanny",Cardinals,RHP,"$5,750,000",,$0,$0
+"Rojas, Miguel",Dodgers,SS,"$5,750,000",,$0,$0
+"Kahnle, Tommy",Yankees,RHP,"$5,750,000",3,"$14,500,000","$4,833,333"
+"Peralta, Freddy",Brewers,RHP,"$5,734,960",5,"$15,500,000","$3,100,000"
+"Scott, Tanner",Marlins,LHP,"$5,700,000",,$0,$0
+"Varsho, Daulton",Blue Jays,OF,"$5,650,000",,$0,$0
+"Gimenez, Andres",Guardians,2,"$5,571,429",7,"$106,500,000","$15,214,286"
+"Bummer, Aaron",Braves,LHP,"$5,500,000",5,"$16,000,000","$3,200,000"
+"Luzardo, Jesus",Marlins,LHP,"$5,500,000",,$0,$0
+"Mahle, Tyler",Rangers,RHP,"$5,500,000",2,"$22,000,000","$11,000,000"
+"Renfroe, Hunter",Royals,OF,"$5,500,000",2,"$13,000,000","$6,500,000"
+"Grisham, Trent",Yankees,OF,"$5,500,000",,$0,$0
+"Thomas, Lane",Nationals,OF,"$5,450,000",,$0,$0
+"Keller, Mitch",Pirates,RHP,"$5,442,500",5,"$77,000,000","$15,400,000"
+"Gonsolin, Anthony",Dodgers,RHP,"$5,400,000",,$0,$0
+"Springs, Jeffrey",Rays,LHP,"$5,250,000",4,"$31,000,000","$7,750,000"
+"Santana, Carlos",Twins,1,"$5,250,000",,$0,$0
+"Jansen, Danny",Blue Jays,C,"$5,200,000",,$0,$0
+"Laureano, Ramon",Guardians,OF,"$5,150,000",,$0,$0
+"Finnegan, Kyle",Nationals,RHP,"$5,100,000",,$0,$0
+"Houser, Adrian",Mets,RHP,"$5,050,000",,$0,$0
+"Suarez, Ranger",Phillies,LHP,"$5,050,000",,$0,$0
+"Sandoval, Patrick",Angels,LHP,"$5,025,000",,$0,$0
+"Harris II, Mike",Braves,OF,"$5,000,000",8,"$72,000,000","$9,000,000"
+"Middleton, Keynan",Cardinals,RHP,"$5,000,000",,$0,$0
+"Castro, Miguel",Diamondbacks,RHP,"$5,000,000",,$0,$0
+"Peterson, Jace",Diamondbacks,INF,"$5,000,000",2,"$9,500,000","$4,750,000"
+"Kershaw, Clayton",Dodgers,LHP,"$5,000,000",2,"$10,000,000","$5,000,000"
+"Urias, Luis",Mariners,2,"$5,000,000",,$0,$0
+"Anderson, Tim",Marlins,SS,"$5,000,000",,$0,$0
+"Soto, Gregory",Phillies,LHP,"$5,000,000",,$0,$0
+"McCutchen, Andrew",Pirates,OF,"$5,000,000",,$0,$0
+"Smith, Will",Royals,LHP,"$5,000,000",,$0,$0
+"Civale, Aaron",Rays,RHP,"$4,900,000",,$0,$0
+"Singer, Brady",Royals,RHP,"$4,850,000",,,
+"Ward, Taylor",Angels,OF,"$4,800,000",,$0,$0
+"Garcia, Adolis",Rangers,OF,"$4,750,000",2,"$14,000,000","$7,000,000"
+"Estrada, Thairo",Giants,2,"$4,700,000",,$0,$0
+"Bednar, David",Pirates,RHP,"$4,510,000",,$0,$0
+"Brasier, Ryan",Dodgers,RHP,"$4,500,000",2,"$9,000,000","$4,500,000"
+"Ottavino, Adam",Mets,RHP,"$4,500,000",2,"$14,500,000","$7,250,000"
+"Lorenzen, Michael",Rangers,RHP,"$4,500,000",,$0,$0
+"Yates, Kirby",Rangers,RHP,"$4,500,000",,$0,$0
+"Rengifo, Luis",Angels,2,"$4,400,000",,$0,$0
+"Lopez, Nicky",White Sox,2,"$4,300,000",,$0,$0
+"Garcia, Luis",Angels,RHP,"$4,250,000",,$0,$0
+"Dominguez, Seranthony",Phillies,RHP,"$4,250,000",,$0,$0
+"Chafin, Andrew",Tigers,LHP,"$4,250,000",,$0,$0
+"Biggio, Cavan",Blue Jays,2,"$4,210,000",,$0,$0
+"Mountcastle, Ryan",Orioles,DH,"$4,137,000",,$0,$0
+"Gilbert, Logan",Mariners,RHP,"$4,050,000",,$0,$0
+"Lopez, Reynaldo",Braves,RHP,"$4,000,000",3,"$30,000,000","$10,000,000"
+"Junis, Jakob",Brewers,RHP,"$4,000,000",,$0,$0
+"Steele, Justin",Cubs,LHP,"$4,000,000",,$0,$0
+"Hernandez, Kike",Dodgers,INF,"$4,000,000",,$0,$0
+"Phillips, Evan",Dodgers,RHP,"$4,000,000",,$0,$0
+"Murphy, Tom",Giants,C,"$4,000,000",2,"$8,250,000","$4,125,000"
+"Slater, Austin",Giants,OF,"$4,000,000",,$0,$0
+"Hedges, Austin",Guardians,C,"$4,000,000",,$0,$0
+"Stanek, Ryne",Mariners,RHP,"$4,000,000",,$0,$0
+"Diekman, Jake",Mets,LHP,"$4,000,000",,$0,$0
+"Rosario, Eddie",Nationals,OF,"$4,000,000",,$0,$0
+"Bohm, Alec",Phillies,3,"$4,000,000",,$0,$0
+"Taylor, Michael A.",Pirates,OF,"$4,000,000",,$0,$0
+"Brebbia, John",White Sox,RHP,"$4,000,000",,$0,$0
+"Maldonado, Martin",White Sox,C,"$4,000,000",,$0,$0
+"Cortes, Nestor",Yankees,LHP,"$3,950,000",,$0,$0
+"Yarbrough, Ryan",Dodgers,LHP,"$3,900,000",,$0,$0
+"Fairbanks, Pete",Rays,RHP,"$3,816,667",,$0,$0
+"Helsley, Ryan",Cardinals,RHP,"$3,800,000",,$0,$0
+"Ramirez, Harold",Rays,OF,"$3,800,000",,$0,$0
+"India, Jonathan",Reds,2,"$3,800,000",2,"$8,800,000","$4,400,000"
+"Urquidy, Jose",Astros,RHP,"$3,750,000",,$0,$0
+"Carroll, Corbin",Diamondbacks,OF,"$3,625,000",8,"$111,000,000","$13,875,000"
+"Berti, Jon",Yankees,INF,"$3,625,000",,$0,
+"McClanahan, Shane",Rays,LHP,"$3,600,000",,$0,$0
+"Mayza, Tim",Blue Jays,LHP,"$3,590,000",,$0,$0
+"Dubon, Mauricio",Astros,2,"$3,500,000",,$0,$0
+"Rea, Colin",Brewers,RHP,"$3,500,000",,$0,$0
+"Barnes, Austin",Dodgers,C,"$3,500,000",,$0,$0
+"Wade, LaMonte",Giants,1,"$3,500,000",,$0,$0
+"O'Hearn, Ryan",Orioles,1,"$3,500,000",,$0,$0
+"Whitlock, Garrett",Red Sox,RHP,"$3,500,000",4,"$18,750,000","$4,687,500"
+"Stratton, Chris",Royals,RHP,"$3,500,000",2,"$8,000,000","$4,000,000"
+"Kelly, Carson",Tigers,C,"$3,500,000",,$0,$0
+"Blackburn, Paul",Athletics,RHP,"$3,450,000",,$0,$0
+"Paredes, Isaac",Rays,3,"$3,400,000",,$0,$0
+"Peralta, Wandy",Padres,LHP,"$3,350,000",4,"$16,500,000","$4,125,000"
+"Greene, Hunter",Reds,RHP,"$3,333,333",6,"$53,000,000","$8,833,333"
+"Means, John",Orioles,LHP,"$3,325,000",,$0,$0
+"Dunning, Dane",Rangers,RHP,"$3,325,000",,$0,$0
+"Castro, Willi",Twins,OF,"$3,300,000",,$0,$0
+"Matsui, Yuki",Padres,LHP,"$3,250,000",5,"$28,000,000","$5,600,000"
+"Vaughn, Andrew",White Sox,1,"$3,250,000",,$0,$0
+"Thielbar, Caleb",Twins,LHP,"$3,225,000",,$0,
+"Rogers, Tyler",Giants,RHP,"$3,200,000",,$0,$0
+"Tellez, Rowdy",Pirates,1,"$3,200,000",,$0,$0
+"Rodgers, Brendan",Rockies,2,"$3,200,000",,$0,$0
+"King, Michael",Padres,RHP,"$3,150,000",,$0,$0
+"Gomber, Austin",Rockies,LHP,"$3,150,000",,$0,$0
+"Moore, Dylan",Mariners,OF,"$3,133,333",,$0,$0
+"Witt Jr., Bobby",Royals,SS,"$3,111,111",11,"$288,777,777","$26,252,525"
+"Rojas, Josh",Mariners,3,"$3,100,000",,$0,$0
+"Heim, Jonah",Rangers,C,"$3,050,000",,$0,$0
+"Duvall, Adam",Braves,OF,"$3,000,000",,$0,$0
+"Sanchez, Gary",Brewers,C,"$3,000,000",,$0,$0
+"McGough, Scott",Diamondbacks,RHP,"$3,000,000",2,"$6,250,000","$3,125,000"
+"Maile, Luke",Reds,C,"$3,000,000",,$0,$0
+"Miller, Shelby",Tigers,RHP,"$3,000,000",,$0,$0
+"Kopech, Michael",White Sox,RHP,"$3,000,000",,$0,$0
+"Soroka, Michael",White Sox,RHP,"$3,000,000",,$0,$0
+"Clase, Emmanuel",Guardians,RHP,"$2,900,000",,$0,$0
+"McCormick, Chas",Astros,OF,"$2,850,000",,$0,$0
+"Sims, Lucas",Reds,RHP,"$2,850,000",,$0,$0
+"Keith, Colt",Tigers,2,"$2,833,333",6,"$28,642,500","$4,773,750"
+"Kirk, Alejandro",Blue Jays,C,"$2,800,000",,$0,$0
+"Swanson, Erik",Blue Jays,RHP,"$2,750,000",,$0,$0
+"Trevino, Jose",Yankees,C,"$2,730,000",,$0,$0
+"Wisdom, Patrick",Cubs,OF,"$2,725,000",,$0,$0
+"Espinal, Santiago",Reds,INF,"$2,725,000",,$0,$0
+"Graterol, Brusdar",Dodgers,RHP,"$2,700,000",,$0,$0
+"Mateo, Jorge",Orioles,2,"$2,700,000",,$0,$0
+"Adam, Jason",Rays,RHP,"$2,700,000",,$0,$0
+"Robles, Victor",Nationals,OF,"$2,650,000",,$0,$0
+"Skubal, Tarik",Tigers,LHP,"$2,650,000",,$0,$0
+"Chisholm Jr., Jazz",Marlins,OF,"$2,625,000",,$0,$0
+"Canning, Griffin",Angels,RHP,"$2,600,000",,$0,$0
+"Brown, Seth",Athletics,OF,"$2,600,000",,$0,$0
+"Taveras, Leody",Rangers,OF,"$2,550,000",,$0,$0
+"Stephenson, Tyler",Reds,C,"$2,525,000",,$0,$0
+"Paddack, Chris",Twins,RHP,"$2,525,000",3,"$12,525,000","$4,175,000"
+"Davis, J.D.",Athletics,3,"$2,500,000",,$0,$0
+"Woodruff, Brandon",Brewers,RHP,"$2,500,000",2,"$22,000,000","$11,000,000"
+"Gallo, Joey",Nationals,OF,"$2,500,000",,$0,$0
+"Grandal, Yasmani",Pirates,C,"$2,500,000",,$0,$0
+"Suter, Brent",Reds,LHP,"$2,500,000",,$0,$0
+"Loaisiga, Jonathan",Yankees,RHP,"$2,500,000",,$0,$0
+"Franco, Wander",Rays,SS,"$2,454,545",11,"$182,000,000","$16,545,454.55"
+"Jeffers, Ryan",Twins,C,"$2,425,000",,$0,$0
+"Ferguson, Caleb",Yankees,LHP,"$2,400,000",,$0,$0
+"Poche, Colin",Rays,LHP,"$2,375,000",,$0,$0
+"Carlson, Dylan",Cardinals,OF,"$2,350,000",,$0,$0
+"Bubic, Kris",Royals,LHP,"$2,350,000",,$0,$0
+"Harvey, Hunter",Nationals,RHP,"$2,325,000",,$0,$0
+"Coulombe, Danny",Orioles,LHP,"$2,300,000",,$0,$0
+"Brubaker, JT",Pirates,RHP,"$2,275,000",,$0,$0
+"Kittredge, Andrew",Cardinals,RHP,"$2,262,500",,$0,$0
+"Alexander, Scott",Athletics,LHP,"$2,250,000",,$0,$0
+"Chourio, Jackson",Brewers,OF,"$2,250,000",(8 (2024-31),"$82,000,000","$10,250,000"
+"Floro, Dylan",Nationals,RHP,"$2,250,000",,$0,$0
+"Farmer, Buck",Reds,RHP,"$2,250,000",,$0,$0
+"Smith, Drew",Mets,RHP,"$2,225,000",,$0,$0
+"Hoffman, Jeff",Phillies,RHP,"$2,200,000",,$0,$0
+"Munoz, Andres",Mariners,RHP,"$2,187,500",4,"$7,500,000","$1,875,000"
+"Higashioka, Kyle",Padres,C,"$2,180,000",,$0,$0
+"Richards, Trevor",Blue Jays,RHP,"$2,150,000",,$0,$0
+"Peterson, David",Mets,LHP,"$2,150,000",,$0,$0
+"Fraley, Jake",Reds,OF,"$2,150,000",,$0,$0
+"May, Dustin",Dodgers,RHP,"$2,135,000",,$0,$0
+"Joe, Connor",Pirates,OF,"$2,125,000",,$0,$0
+"Alzolay, Adbert",Cubs,RHP,"$2,110,000",,$0,$0
+"Sanchez, Jesus",Marlins,OF,"$2,100,000",,$0,$0
+"Urias, Ramon",Orioles,3,"$2,100,000",,$0,$0
+"Milner, Hoby",Brewers,LHP,"$2,050,000",,$0,$0
+"Bethancourt, Christian",Marlins,C,"$2,050,000",,$0,$0
+"Armstrong, Shawn",Rays,RHP,"$2,050,000",,$0,$0
+"Taylor, Tyrone",Mets,OF,"$2,025,000",,$0,$0
+"Schmidt, Clarke",Yankees,RHP,"$2,025,000",,$0,$0
+"Carrasco, Carlos",Guardians,RHP,"$2,000,000",,$0,$0
+"Barnes, Matt",Nationals,RHP,"$2,000,000",,$0,$0
+"Winker, Jesse",Nationals,OF,"$2,000,000",,$0,$0
+"Vogelbach, Daniel",Blue Jays,DH,"$2,000,000",,$0,$0
+"Arcia, Orlando",Braves,SS,"$2,000,000",3,"$7,300,000","$2,433,333"
+"Crawford, Brandon",Cardinals,SS,"$2,000,000",,$0,$0
+"Hudson, Daniel",Dodgers,RHP,"$2,000,000",,$0,$0
+"Lopez, Jorge",Mets,RHP,"$2,000,000",,$0,$0
+"Wendle, Joey",Mets,INF,"$2,000,000",,$0,$0
+"Senzel, Nick",Nationals,3,"$2,000,000",,$0,$0
+"Irvin, Cole",Orioles,LHP,"$2,000,000",,$0,$0
+"Turnbull, Spencer",Phillies,RHP,"$2,000,000",,$0,$0
+"Hendriks, Liam",Red Sox,RHP,"$2,000,000",2,"$10,000,000","$5,000,000"
+"Rodriguez, Joely",Red Sox,LHP,"$2,000,000",,$0,$0
+"Frazier, Adam",Royals,2,"$2,000,000",,$0,$0
+"Hampson, Garrett",Royals,2,"$2,000,000",,$0,$0
+"Weaver, Luke",Yankees,RHP,"$2,000,000",,$0,$0
+"Wells, Tyler",Orioles,RHP,"$1,962,500",,$0,$0
+"Tauchman, Michael",Cubs,OF,"$1,950,000",,$0,$0
+"Garcia Jr., Luis",Nationals,2,"$1,950,000",,$0,$0
+"Alexander, Tyler",Rays,LHP,"$1,950,000",,$0,$0
+"Matzek, Tyler",Braves,LHP,"$1,900,000",,$0,$0
+"Almonte, Yency",Cubs,RHP,"$1,900,000",,$0,$0
+"Karinchak, James",Guardians,RHP,"$1,900,000",,$0,$0
+"Garcia, Luis",Astros,RHP,"$1,875,000",,$0,$0
+"Rasmussen, Drew",Rays,RHP,"$1,862,500",,$0,$0
+"Littell, Zack",Rays,RHP,"$1,850,000",,$0,$0
+"Refsnyder, Rob",Red Sox,OF,"$1,850,000",,$0,$0
+"Knizner, Andrew",Rangers,C,"$1,825,000",,$0,$0
+"Madrigal, Nick",Cubs,INF,"$1,810,000",,$0,$0
+"Puk, A.J.",Marlins,LHP,"$1,800,000",,$0,$0
+"Wright, Kyle",Royals,RHP,"$1,800,000",,$0,$0
+"Hill, Tim",White Sox,LHP,"$1,800,000",,$0,$0
+"Cooper, Garrett",Cubs,1,"$1,750,000",,$0,$0
+"Urena, Jose",Rangers,RHP,"$1,750,000",,$0,$0
+"Cisnero, Jose",Angels,RHP,"$1,750,000",,$0,$0
+"Abreu, Bryan",Astros,RHP,"$1,750,000",,$0,$0
+"DeJong, Paul",White Sox,SS,"$1,750,000",,$0,$0
+"Flexen, Chris",White Sox,RHP,"$1,750,000",,$0,$0
+"Andujar, Miguel",Athletics,OF,"$1,700,000",,$0,$0
+"Sosa, Edmundo",Phillies,INF,"$1,700,000",,$0,$0
+"Jankowski, Travis",Rangers,OF,"$1,700,000",,$0,$0
+"Rogers, Jake",Tigers,C,"$1,700,000",,$0,$0
+"Beeks, Jalen",Rockies,LHP,"$1,675,000",,$0,$0
+"Cimber, Adam",Angels,RHP,"$1,650,000",,$0,$0
+"Payamps, Joel",Brewers,RHP,"$1,650,000",,$0,$0
+"McKenzie, Triston",Guardians,RHP,"$1,600,000",,$0,$0
+"Stephan, Trevor",Guardians,RHP,"$1,600,000",4,"$10,000,000","$2,500,000"
+"Borucki, Ryan",Pirates,LHP,"$1,600,000",,$0,$0
+"Anderson, Nick",Royals,RHP,"$1,575,000",,$0,$0
+"Rogers, Trevor",Marlins,LHP,"$1,530,000",,$0,$0
+"Cabrera, Genesis",Blue Jays,LHP,"$1,512,500",,$0,$0
+"Law, Derek",Nationals,RHP,"$1,500,000",,$0,$0
+"Wilson, Justin",Reds,LHP,"$1,500,000",,$0,$0
+"Leone, Dominic",White Sox,RHP,"$1,500,000",,$0,$0
+"Gott, Trevor",Athletics,RHP,"$1,500,000",,$0,$0
+"Ross, Joe",Brewers,RHP,"$1,500,000",,$0,$0
+"Leiter Jr., Mark",Cubs,RHP,"$1,500,000",,$0,$0
+"Grichuk, Randal",Diamondbacks,OF,"$1,500,000",,$0,$0
+"Rainey, Tanner",Nationals,RHP,"$1,500,000",,$0,$0
+"Tate, Dillon",Orioles,RHP,"$1,500,000",,$0,$0
+"Rosario, Amed",Rays,INF,"$1,500,000",,$0,$0
+"McGuire, Reese",Red Sox,C,"$1,500,000",,$0,$0
+"Hudson, Dakota",Rockies,RHP,"$1,500,000",,$0,$0
+"Stallings, Jacob",Rockies,C,"$1,500,000",,$0,$0
+"Tovar, Ezequiel",Rockies,SS,"$1,500,000",7,"$63,500,000","$9,071,428"
+"Urshela, Gio",Tigers,3,"$1,500,000",,$0,$0
+"Trivino, Lou",Yankees,RHP,"$1,500,000",,$0,$0
+"Stewart, DJ",Mets,OF,"$1,380,000",,$0,$0
+"Bauers, Jake",Brewers,1,"$1,350,000",,$0,$0
+"Thompson, Ryan",Diamondbacks,RHP,"$1,350,000",,$0,$0
+"Olivares, Edward",Pirates,OF,"$1,350,000",,$0,$0
+"Kirilloff, Alex",Twins,INF,"$1,350,000",,$0,$0
+"Kinley, Tyler",Rockies,RHP,"$1,300,000",,$0,$0
+"Jackson, Jay",Twins,RHP,"$1,300,000",,$0,$0
+"Chargois, JT",Marlins,RHP,"$1,285,000",,$0,$0
+"Toro, Abraham",Athletics,INF,"$1,275,000",,$0,$0
+"Walsh, Jared",Rangers,1,"$1,250,000",,$0,$0
+"Clarke, Taylor",Brewers,RHP,"$1,250,000",,$0,$0
+"Voth, Austin",Mariners,RHP,"$1,250,000",,$0,$0
+"Anderson, Chase",Red Sox,RHP,"$1,250,000",,$0,$0
+"Lambert, Peter",Rockies,RHP,"$1,250,000",,$0,$0
+"Hernandez, Jonathan",Rangers,RHP,"$1,245,000",,$0,$0
+"Ginkel, Kevin",Diamondbacks,RHP,"$1,225,000",,$0,$0
+"Lux, Gavin",Dodgers,2,"$1,225,000",,$0,$0
+"Topa, Justin",Twins,RHP,"$1,225,000",,$0,$0
+"Beede, Tyler",Guardians,RHP,"$1,200,000",,$0,$0
+"Waguespack, Jacob",Rays,RHP,"$1,200,000",,$0,$0
+"Thornton, Trent",Mariners,RHP,"$1,200,000",,$0,$0
+"Perez, Cionel",Orioles,LHP,"$1,200,000",,$0,$0
+"Merryweather, Julian",Cubs,RHP,"$1,175,000",,$0,$0
+"Schreiber, John",Royals,RHP,"$1,175,000",,$0,$0
+"Bello, Brayan",Red Sox,RHP,"$1,166,667",6,"$55,000,000","$9,166,667"
+"Hentges, Sam",Guardians,LHP,"$1,162,500",,$0,$0
+"De Los Santos, Enyel",Padres,RHP,"$1,160,000",,$0,$0
+"Young, Alex",Reds,LHP,"$1,160,000",,$0,$0
+"Guillorme, Luis",Braves,INF,"$1,100,000",,$0,$0
+"Vargas, Ildemaro",Nationals,INF,"$1,100,000",,$0,$0
+"Taylor, Josh",Royals,LHP,"$1,100,000",,$0,$0
+"Sandlin, Nick",Guardians,RHP,"$1,075,000",,$0,$0
+"Okert, Steven",Twins,LHP,"$1,062,500",,$0,$0
+"Brentz, Jake",Royals,LHP,"$1,050,000",2,"$1,900,000","$950,000"
+"Burke, Brock",Rangers,LHP,"$1,035,000",,$0,$0
+"Wilson, Bryse",Brewers,RHP,"$1,025,000",,$0,$0
+"Sborz, Josh",Rangers,RHP,"$1,025,000",,$0,$0
+"Hernandez, Carlos",Royals,RHP,"$1,012,500",,$0,$0
+"Newcomb, Sean",Athletics,LHP,"$1,000,000",,$0,$0
+"Strider, Spencer",Braves,RHP,"$1,000,000",6,"$75,000,000","$12,500,000"
+"Treinen, Blake",Dodgers,RHP,"$1,000,000",,$0,$0
+"Vesia, Alex",Dodgers,LHP,"$1,000,000",,$0,$0
+"Smith, Burch",Marlins,RHP,"$1,000,000",,$0,$0
+"Tonkin, Michael",Mets,RHP,"$1,000,000",,$0,$0
+"Bautista, Felix",Orioles,RHP,"$1,000,000",,$0,$0
+"Kemp, Tony",Orioles,OF,"$1,000,000",,$0,$0
+"Webb, Jacob",Orioles,RHP,"$1,000,000",,$0,$0
+"Profar, Jurickson",Padres,OF,"$1,000,000",,$0,$0
+"Devenski, Chris",Rays,RHP,"$1,000,000",,$0,$0
+"Cave, Jake",Rockies,OF,"$1,000,000",,$0,$0
+"Pillar, Kevin",White Sox,OF,"$1,000,000",,$0,$0
+"Staumont, Josh",Twins,RHP,"$950,000",,$0,$0
+"Suarez, Jose",Angels,LHP,"$925,000",,$0,$0
+"Mantiply, Joe",Diamondbacks,LHP,"$925,000",,$0,$0
+"Hamilton, Ian",Yankees,RHP,"$923,050",,$0,$0
+"Haggerty, Sam",Mariners,2,"$900,000",,$0,$0
+"Gordon, Nick",Marlins,OF,"$900,000",,$0,$0
+"Stewart, Brock",Twins,RHP,"$900,000",,$0,$0
+"Sano, Miguel",Angels,3,"$875,000",,$0,$0
+"Bazardo, Eduard",Mariners,RHP,"$870,600",,$0,$0
+"Romero, JoJo",Cardinals,LHP,"$860,000",,$0,$0
+"Gonzalez, Victor",Yankees,LHP,"$860,000",,$0,$0
+"Ahmed, Nick",Giants,SS,"$850,000",,$0,$0
+"McFarland, T.J.",Athletics,LHP,"$850,000",,$0,$0
+"Singleton, Jonathan",Astros,1,"$850,000",,$0,$0
+"Wade, Tyler",Padres,3,"$850,000",,$0,$0
+"Covey, Dylan",Phillies,RHP,"$850,000",,$0,$0
+"Stubbs, Garrett",Phillies,C,"$850,000",,$0,$0
+"Fleming, Josh",Pirates,LHP,"$850,000",,$0,$0
+"Quijada, Jose",Angels,LHP,"$840,000",,$0,$0
+"Ryan, Ryder",Pirates,RHP,"$830,000",,$0,$0
+"Antone, Tejay",Reds,RHP,"$830,000",,$0,$0
+"Mize, Casey",Tigers,RHP,"$830,000",,$0,$0
+"Akin, Keegan",Orioles,LHP,"$825,000",,$0,$0
+"Volpe, Anthony",Yankees,SS,"$810,100",,$0,$0
+"Adams, Austin",Athletics,RHP,"$800,000",,$0,$0
+"Stratton, Hunter",Pirates,RHP,"$800,000",,$0,$0
+"Shaw, Bryan",White Sox,RHP,"$800,000",,$0,$0
+"Burdi, Nick",Yankees,RHP,"$800,000",,$0,$0
+"Pearson, Nate",Blue Jays,RHP,"$800,000",,$0,$0
+"Perkins, Blake",Brewers,OF,"$800,000",,$0,$0
+"Crochet, Garrett",White Sox,LHP,"$800,000",,$0,$0
+"Kirby, George",Mariners,RHP,"$798,600",,$0,$0
+"Garrett, Stone",Nationals,OF,"$798,600",,$0,$0
+"Raleigh, Cal",Mariners,C,"$795,000",,$0,$0
+"Scott, Tayler",Astros,RHP,"$790,000",,$0,$0
+"Alcala, Jorge",Twins,RHP,"$790,000",,$0,$0
+"Perdomo, Geraldo",Diamondbacks,SS,"$786,000",,$0,$0
+"Pena, Jeremy",Astros,SS,"$783,500",,$0,$0
+"Cabrera, Oswaldo",Yankees,OF,"$783,000",,$0,$0
+"Manoah, Alek",Blue Jays,RHP,"$782,500",,$0,$0
+"Vieira, Thyago",Brewers,RHP,"$777,500",,$0,$0
+"Brown, Hunter",Astros,RHP,"$774,500",,$0,$0
+"Weems, Jordan",Nationals,RHP,"$773,500",,$0,$0
+"Reid-Foley, Sean",Mets,RHP,"$772,750",,$0,$0
+"Adell, Jo",Angels,OF,"$770,000",,$0,$0
+"Detmers, Reid",Angels,LHP,"$770,000",,$0,$0
+"Moniak, Mickey",Angels,OF,"$770,000",,$0,$0
+"Thaiss, Matt",Angels,C,"$770,000",,$0,$0
+"Outman, James",Dodgers,OF,"$770,000",,$0,$0
+"Bart, Joey",Giants,C,"$770,000",,$0,$0
+"Doval, Camilo",Giants,RHP,"$770,000",,$0,$0
+"Bender, Anthony",Marlins,RHP,"$770,000",,$0,$0
+"Houck, Tanner",Red Sox,RHP,"$770,000",,$0,$0
+"Thomas, Alek",Diamondbacks,OF,"$769,500",,$0,$0
+"Diaz, Yainer",Astros,C,"$768,900",,$0,$0
+"Ramirez, Yohan",Mets,RHP,"$768,750",,$0,$0
+"De La Cruz, Bryan",Marlins,OF,"$768,000",,$0,$0
+"Stott, Bryson",Phillies,2,"$768,000",,$0,$0
+"France, J.P.",Astros,RHP,"$767,600",,$0,$0
+"Meyers, Jake",Astros,OF,"$767,300",,$0,$0
+"Morel, Christopher",Cubs,3,"$767,000",,$0,$0
+"Contreras, William",Brewers,C,"$766,900",,$0,$0
+"Peraza, Oswald",Yankees,SS,"$766,600",,$0,$0
+"Marsh, Brandon",Phillies,OF,"$766,500",,$0,$0
+"White, Mitch",Blue Jays,RHP,"$766,400",,$0,$0
+"Foley, Jason",Tigers,RHP,"$766,300",,$0,$0
+"Greene, Riley",Tigers,OF,"$766,300",,$0,$0
+"Megill, Tylor",Mets,RHP,"$766,250",,$0,$0
+"Ibanez, Andy",Tigers,INF,"$766,100",,$0,$0
+"McCarthy, Jake",Diamondbacks,OF,"$766,000",,$0,$0
+"Vierling, Matt",Tigers,OF,"$766,000",,$0,$0
+"Torkelson, Spencer",Tigers,1,"$765,700",,$0,$0
+"Bielak, Brandon",Astros,RHP,"$765,000",,$0,$0
+"Oviedo, Johan",Pirates,RHP,"$765,000",,$0,$0
+"McKinstry, Zach",Tigers,INF,"$764,400",,$0,$0
+"Nelson, Ryne",Diamondbacks,RHP,"$764,300",,$0,$0
+"Garrett, Braxton",Marlins,LHP,"$764,000",,$0,$0
+"Reyes, Pablo",Red Sox,INF,"$764,000",,$0,$0
+"Alvarez, Francisco",Mets,C,"$762,500",,$0,$0
+"Cuas, Jose",Cubs,RHP,"$762,000",,$0,$0
+"Ober, Bailey",Twins,RHP,"$761,850",,$0,$0
+"Jax, Griffin",Twins,RHP,"$761,750",,$0,$0
+"Nootbaar, Lars",Cardinals,OF,"$761,000",,$0,$0
+"Cabrera, Edward",Marlins,RHP,"$761,000",,$0,$0
+"Brogdon, Connor",Phillies,RHP,"$761,000",,$0,$0
+"Carpenter, Kerry",Tigers,OF,"$761,000",,$0,$0
+"Vest, Will",Tigers,RHP,"$760,700",,$0,$0
+"Lange, Alex",Tigers,RHP,"$760,600",,$0,$0
+"Henry, Tommy",Diamondbacks,LHP,"$760,500",,$0,$0
+"Pache, Cristian",Phillies,OF,"$760,500",,$0,$0
+"Rutschman, Adley",Orioles,C,"$760,300",,$0,$0
+"Moreno, Gabriel",Diamondbacks,C,"$760,100",,$0,$0
+"O'Hoppe, Logan",Angels,C,"$760,000",,$0,$0
+"Soriano, Jose",Angels,RHP,"$760,000",,$0,$0
+"Kelenic, Jarred",Braves,OF,"$760,000",,$0,$0
+"Lee, Dylan",Braves,LHP,"$760,000",,$0,$0
+"Grove, Michael",Dodgers,RHP,"$760,000",,$0,$0
+"Burger, Jake",Marlins,3,"$760,000",,$0,$0
+"Casas, Triston",Red Sox,1,"$760,000",,$0,$0
+"Crawford, Kutter",Red Sox,RHP,"$760,000",,$0,$0
+"Dalbec, Bobby",Red Sox,INF,"$760,000",,$0,$0
+"Duran, Jarren",Red Sox,OF,"$760,000",,$0,$0
+"Winckowski, Josh",Red Sox,RHP,"$760,000",,$0,$0
+"Wong, Connor",Red Sox,C,"$760,000",,$0,$0
+"Diaz, Alexis",Reds,RHP,"$760,000",,$0,$0
+"Gibaut, Ian",Reds,RHP,"$760,000",,$0,$0
+"Lodolo, Nick",Reds,LHP,"$760,000",,$0,$0
+"Moll, Sam",Reds,LHP,"$760,000",,$0,$0
+"Gilbreath, Lucas",Rockies,LHP,"$760,000",,$0,$0
+"Lambert, Jimmy",White Sox,RHP,"$759,250",,$0,$0
+"Fortes, Nick",Marlins,C,"$759,000",,$0,$0
+"Ryan, Joe",Twins,RHP,"$758,850",,$0,$0
+"Holton, Tyler",Tigers,LHP,"$758,300",,$0,$0
+"Isbel, Kyle",Royals,OF,"$758,250",,$0,$0
+"Siri, Jose",Rays,OF,"$757,800",,$0,$0
+"Clement, Ernie",Blue Jays,2,"$757,700",,$0,$0
+"Kwan, Steven",Guardians,OF,"$757,600",,$0,$0
+"Brash, Matt",Mariners,RHP,"$757,600",,$0,$0
+"Gray, Josiah",Nationals,RHP,"$757,400",,$0,$0
+"Nelson, Kyle",Diamondbacks,LHP,"$757,300",,$0,$0
+"Walls, Taylor",Rays,INF,"$757,300",,$0,$0
+"Donovan, Brendan",Cardinals,INF,"$757,200",,$0,$0
+"Massey, Michael",Royals,2,"$757,000",,$0,$0
+"Sheets, Gavin",White Sox,INF,"$756,950",,$0,$0
+"Pallante, Andre",Cardinals,RHP,"$756,900",,$0,$0
+"Zavala, Seby",Mariners,C,"$756,700",,$0,$0
+"Megill, Trevor",Brewers,RHP,"$756,600",,$0,$0
+"Kremer, Dean",Orioles,RHP,"$756,600",,$0,$0
+"Henderson, Gunnar",Orioles,SS,"$756,200",,$0,$0
+"Jung, Josh",Rangers,3,"$756,000",,$0,$0
+"Lowe, Josh",Rays,OF,"$755,700",,$0,$0
+"Gorman, Nolan",Cardinals,2,"$755,550",,$0,$0
+"Rortvedt, Ben",Rays,C,"$755,400",,$0,$0
+"Banks, Tanner",White Sox,LHP,"$755,050",,$0,$0
+"Assad, Javier",Cubs,RHP,"$755,000",,$0,$0
+"Warren, Austin",Giants,RHP,"$755,000",,$0,$0
+"Bae, Ji-hwan",Pirates,2,"$755,000",,$0,$0
+"Contreras, Roansy",Pirates,RHP,"$755,000",,$0,$0
+"Cruz, Oneil",Pirates,SS,"$755,000",,$0,$0
+"Delay, Jason",Pirates,C,"$755,000",,$0,$0
+"Falter, Bailey",Pirates,LHP,"$755,000",,$0,$0
+"Hernandez, Jose",Pirates,LHP,"$755,000",,$0,$0
+"Holderman, Colin",Pirates,RHP,"$755,000",,$0,$0
+"Moreta, Dauri",Pirates,RHP,"$755,000",,$0,$0
+"Suwinski, Jack",Pirates,OF,"$755,000",,$0,$0
+"Melendez, MJ",Royals,OF,"$754,750",,$0,$0
+"Campusano, Luis",Padres,C,"$754,700",,$0,$0
+"Bradish, Kyle",Orioles,RHP,"$754,500",,$0,$0
+"Duran, Ezequiel",Rangers,INF,"$754,500",,$0,$0
+"Pfaadt, Brandon",Diamondbacks,RHP,"$754,400",,$0,$0
+"Peguero, Elvis",Brewers,RHP,"$754,300",,$0,$0
+"Raley, Luke",Mariners,1,"$754,200",,$0,$0
+"Nardi, Andrew",Marlins,LHP,"$754,000",,$0,$0
+"Ragans, Cole",Royals,LHP,"$753,750",,$0,$0
+"Martinez, Seth",Astros,RHP,"$753,600",,$0,$0
+"Sanchez, Cristopher",Phillies,LHP,"$753,500",,$0,$0
+"Speier, Gabe",Mariners,LHP,"$753,300",,$0,$0
+"Saucedo, Tayler",Mariners,LHP,"$753,100",,$0,$0
+"Brazoban, Huascar",Marlins,RHP,"$753,000",,$0,$0
+"Pasquantino, Vinnie",Royals,1,"$752,750",,$0,$0
+"Miller, Bryce",Mariners,RHP,"$752,600",,$0,$0
+"Weathers, Ryan",Marlins,LHP,"$752,600",,$0,$0
+"Monasterio, Andruw",Brewers,INF,"$752,500",,$0,$0
+"Abrams Jr., CJ",Nationals,SS,"$752,400",,$0,$0
+"Cano, Yennier",Orioles,RHP,"$752,300",,$0,$0
+"Olson, Reese",Tigers,RHP,"$752,300",,$0,$0
+"Meneses, Joey",Nationals,DH,"$752,000",,$0,$0
+"Wilson, Steven",White Sox,RHP,"$751,900",,$0,$0
+"Winder, Josh",Twins,RHP,"$751,850",,$0,$0
+"Caballero, Jose",Rays,SS,"$751,700",,$0,$0
+"Marte, Yunior",Phillies,RHP,"$751,500",,$0,$0
+"Rucker, Michael",Phillies,RHP,"$751,500",,$0,$0
+"Garcia, Maikel",Royals,3,"$751,250",,$0,$0
+"Morgan, Eli",Guardians,RHP,"$751,200",,$0,$0
+"Serven, Brian",Blue Jays,C,"$751,000",,$0,$0
+"Adams, Riley",Nationals,C,"$750,900",,$0,$0
+"Thompson, Zack",Cardinals,LHP,"$750,850",,$0,$0
+"Hoeing, Bryan",Marlins,RHP,"$750,500",,$0,$0
+"Cosgrove, Tom",Padres,LHP,"$750,500",,$0,$0
+"Burleson, Alec",Cardinals,OF,"$750,050",,$0,$0
+"Gil, Luis",Yankees,RHP,"$750,000",,$0,$0
+"Bachman, Sam",Angels,RHP,"$750,000",,$0,$0
+"Neto, Zach",Angels,SS,"$750,000",,$0,$0
+"Schanuel, Nolan",Angels,1,"$750,000",,$0,$0
+"Silseth, Chase",Angels,RHP,"$750,000",,$0,$0
+"Stefanic, Michael",Angels,INF,"$750,000",,$0,$0
+"Zuniga, Guillermo",Angels,RHP,"$750,000",,$0,$0
+"Erceg, Lucas",Athletics,RHP,"$750,000",,$0,$0
+"Jimenez, Dany",Athletics,RHP,"$750,000",,$0,$0
+"Kelly, Michael",Athletics,RHP,"$750,000",,$0,$0
+"Rooker, Brent",Athletics,OF,"$750,000",,$0,$0
+"Wall, Forrest",Braves,OF,"$750,000",,$0,$0
+"Miller, Bobby",Dodgers,RHP,"$750,000",,$0,$0
+"Sheehan, Emmet",Dodgers,RHP,"$750,000",,$0,$0
+"Lively, Ben",Guardians,RHP,"$750,000",,$0,$0
+"Santos, Gregory",Mariners,RHP,"$750,000",,$0,$0
+"Baty, Brett",Mets,3,"$750,000",,$0,$0
+"Kranick, Max",Mets,RHP,"$750,000",,$0,$0
+"Marchan, Rafael",Phillies,C,"$750,000",,$0,$0
+"Ashcraft, Graham",Reds,RHP,"$750,000",,$0,$0
+"Benson, Will",Reds,OF,"$750,000",,$0,$0
+"Cruz, Fernando",Reds,RHP,"$750,000",,$0,$0
+"Fairchild, Stuart",Reds,OF,"$750,000",,$0,$0
+"Friedl, TJ",Reds,OF,"$750,000",,$0,$0
+"Martini, Nick",Reds,OF,"$750,000",,$0,$0
+"Steer, Spencer",Reds,OF,"$750,000",,$0,$0
+"Mears, Nick",Rockies,RHP,"$750,000",,$0,$0
+"Foster, Matt",White Sox,RHP,"$750,000",,$0,$0
+"Effross, Scott",Yankees,RHP,"$750,000",,$0,$0
+"Wells, Austin",Yankees,C,"$750,000",,$0,$0
+"Blanco, Ronel",Astros,RHP,"$749,800",,$0,$0
+"Jameson, Drey",Diamondbacks,RHP,"$749,700",,$0,$0
+"Parsons, Wes",Blue Jays,RHP,"$749,600",,$0,$0
+"Gore, MacKenzie",Nationals,LHP,"$749,600",,$0,$0
+"Smith, Josh",Rangers,INF,"$749,500",,$0,$0
+"Abreu, Wilyer",Red Sox,OF,"$749,500",,$0,$0
+"Sands, Cole",Twins,RHP,"$749,450",,$0,$0
+"Patino, Luis",Padres,RHP,"$749,400",,$0,$0
+"Thompson, Mason",Nationals,RHP,"$749,200",,$0,$0
+"Woo, Bryan",Mariners,RHP,"$749,000",,$0,$0
+"Baumann, Michael",Orioles,RHP,"$748,900",,$0,$0
+"Ortega, Oliver",Astros,RHP,"$748,500",,$0,$0
+"Florial, Estevan",Guardians,OF,"$748,500",,$0,$0
+"Bradford, Cody",Rangers,LHP,"$748,500",,$0,$0
+"Frias, Luis",Diamondbacks,RHP,"$748,300",,$0,$0
+"Rodriguez, Grayson",Orioles,RHP,"$748,300",,$0,$0
+"Zerpa, Angel",Royals,LHP,"$748,250",,$0,$0
+"Turang, Brice",Brewers,2,"$748,200",,$0,$0
+"Francis, Bowden",Blue Jays,RHP,"$748,000",,$0,$0
+"Perez, Eury",Marlins,RHP,"$748,000",,$0,$0
+"Bailey, Patrick",Giants,C,"$747,500",,$0,$0
+"Beck, Tristan",Giants,RHP,"$747,500",,$0,$0
+"Walker, Ryan",Giants,RHP,"$747,500",,$0,$0
+"Davis, Henry",Pirates,C,"$747,500",,$0,$0
+"Mlodzinski, Carmen",Pirates,RHP,"$747,500",,$0,$0
+"Ortiz, Luis",Pirates,RHP,"$747,500",,$0,$0
+"Walker, Jordan",Cardinals,OF,"$747,450",,$0,$0
+"Mushinski, Parker",Astros,LHP,"$747,400",,$0,$0
+"Uribe, Abner",Brewers,RHP,"$747,400",,$0,$0
+"Snider, Collin",Mariners,RHP,"$747,300",,$0,$0
+"Short, Zack",Mets,INF,"$747,300",,$0,$0
+"Scholtens, Jesse",White Sox,RHP,"$747,250",,$0,$0
+"Liberatore, Matthew",Cardinals,LHP,"$747,200",,$0,$0
+"Duran, Jhoan",Twins,RHP,"$747,200",,$0,$0
+"Otto, Glenn",Padres,RHP,"$747,000",,$0,$0
+"Velazquez, Nelson",Royals,OF,"$747,000",,$0,$0
+"Cleavinger, Garrett",Rays,LHP,"$746,900",,$0,$0
+"Meadows, Parker",Tigers,OF,"$746,900",,$0,
+"Julien, Edouard",Twins,2,"$746,750",,$0,$0
+"Wentz, Joey",Tigers,LHP,"$746,700",,$0,$0
+"Avila, Pedro",Padres,RHP,"$746,600",,$0,$0
+"Faedo, Alex",Tigers,RHP,"$746,600",,$0,$0
+"Frelick, Sal",Brewers,OF,"$746,500",,$0,$0
+"Amaya, Miguel",Cubs,C,"$746,500",,$0,$0
+"Mastrobuoni, Miles",Cubs,INF,"$746,000",,$0,$0
+"Soriano, George",Marlins,RHP,"$746,000",,$0,$0
+"Brito, Jhony",Padres,RHP,"$746,000",,$0,$0
+"Marcano, Tucupita",Padres,SS,"$746,000",,$0,$0
+"Campbell, Isaiah",Red Sox,RHP,"$746,000",,$0,$0
+"Brujan, Vidal",Marlins,OF,"$745,800",,$0,$0
+"Westburg, Jordan",Orioles,2,"$745,800",,$0,$0
+"Dominguez, Jasson",Yankees,OF,"$745,800",,$0,$0
+"McArthur, James",Royals,RHP,"$745,750",,$0,$0
+"Bibee, Tanner",Guardians,RHP,"$745,700",,$0,$0
+"Azocar, Jose",Padres,OF,"$745,700",,$0,$0
+"Lewis, Royce",Twins,3,"$745,700",,$0,$0
+"Irvin, Jake",Nationals,RHP,"$745,600",,$0,$0
+"Wallner, Matt",Twins,OF,"$745,550",,$0,$0
+"Varland, Louie",Twins,RHP,"$745,400",,$0,$0
+"Palacios, Richie",Rays,OF,"$745,200",,$0,$0
+"Pinto, Rene",Rays,C,"$745,100",,$0,$0
+"Bride, Jonah",Marlins,INF,"$745,000",,$0,$0
+"Trejo, Alan",Rockies,2,"$745,000",,$0,$0
+"Allen, Nick",Athletics,SS,"$745,000",,$0,$0
+"Bleday, JJ",Athletics,OF,"$745,000",,$0,$0
+"Langeliers, Shea",Athletics,C,"$745,000",,$0,$0
+"Noda, Ryan",Athletics,1,"$745,000",,$0,$0
+"Ruiz, Esteury",Athletics,OF,"$745,000",,$0,$0
+"Sears, J.P.",Athletics,LHP,"$745,000",,$0,$0
+"Tarnok, Freddy",Athletics,RHP,"$745,000",,$0,$0
+"Waldichuk, Ken",Athletics,LHP,"$745,000",,$0,$0
+"Rojas, Johan",Phillies,OF,"$745,000",,$0,$0
+"Rodriguez, Endy",Pirates,C,"$745,000",,$0,$0
+"Triolo, Jared",Pirates,2,"$745,000",,$0,$0
+"Williams, Alika",Pirates,INF,"$745,000",,$0,$0
+"Carter, Evan",Rangers,OF,"$745,000",,$0,$0
+"Bird, Jake",Rockies,RHP,"$745,000",,$0,$0
+"Feltner, Ryan",Rockies,RHP,"$745,000",,$0,$0
+"Jones, Nolan",Rockies,OF,"$745,000",,$0,$0
+"Lawrence, Justin",Rockies,RHP,"$745,000",,$0,$0
+"Montero, Elehuris",Rockies,1,"$745,000",,$0,$0
+"Schneider, Davis",Blue Jays,INF,"$744,900",,$0,$0
+"Brennan, Will",Guardians,OF,"$744,900",,$0,$0
+"Pepiot, Ryan",Rays,RHP,"$744,900",,$0,$0
+"Marsh, Alec",Royals,RHP,"$744,750",,$0,$0
+"Weiss, Zack",Twins,RHP,"$744,550",,$0,$0
+"Fermin, Freddy",Royals,C,"$744,500",,$0,$0
+"Curry, Xzavion",Guardians,RHP,"$744,400",,$0,$0
+"Rosario, Eguy",Padres,INF,"$744,400",,$0,$0
+"Mitchell, Garrett",Brewers,OF,"$744,300",,$0,$0
+"Allen, Logan",Guardians,LHP,"$744,300",,$0,$0
+"Hall, DL",Brewers,LHP,"$744,200",,$0,$0
+"Arias, Gabriel",Guardians,INF,"$744,100",,$0,$0
+"Ortiz, Luis",Phillies,RHP,"$744,000",,$0,$0
+"Harrison, Kyle",Giants,LHP,"$743,750",,$0,$0
+"Hjelle, Sean",Giants,RHP,"$743,750",,$0,$0
+"Winn, Keaton",Giants,RHP,"$743,750",,$0,$0
+"Blanco, Dairon",Royals,OF,"$743,750",,$0,$0
+"Canzone, Dominic",Mariners,OF,"$743,700",,$0,$0
+"Jarvis, Bryce",Diamondbacks,RHP,"$743,600",,$0,$0
+"Baz, Shane",Rays,RHP,"$743,600",,$0,$0
+"Gipson-Long, Sawyer",Tigers,RHP,"$743,600",,$0,$0
+"Mauricio, Ronny",Mets,INF,"$743,500",,$0,$0
+"Murphy, Chris",Red Sox,LHP,"$743,500",,$0,$0
+"Rafaela, Ceddanne",Red Sox,OF,"$743,500",,$0,$0
+"Valdez, Enmanuel",Red Sox,2,"$743,500",,$0,$0
+"Weissert, Greg",Red Sox,RHP,"$743,500",,$0,$0
+"Bradley, Taj",Rays,RHP,"$743,300",,$0,$0
+"Moore, McKinley",Yankees,RHP,"$743,250",,$0,$0
+"Herrera, Ivan",Cardinals,C,"$743,150",,$0,$0
+"Meyer, Max",Marlins,RHP,"$743,000",,$0,$0
+"Kowar, Jackson",Mariners,RHP,"$743,000",,$0,$0
+"Edwards, Xavier",Marlins,2,"$743,000",,$0,$0
+"Ferrer, Jose",Nationals,LHP,"$743,000",,$0,$0
+"Rodriguez, Yerry",Rangers,RHP,"$743,000",,$0,$0
+"Fletcher, Dominic",White Sox,OF,"$742,900",,$0,$0
+"Garcia, Robert",Nationals,LHP,"$742,800",,$0,$0
+"Cowser, Colton",Orioles,OF,"$742,800",,$0,$0
+"Aranda, Jonathan",Rays,INF,"$742,800",,$0,$0
+"Vespi, Nick",Orioles,LHP,"$742,700",,$0,$0
+"Thompson, Bubba",Reds,OF,"$742,500",,$0,$0
+"Hurt, Kyle",Dodgers,RHP,"$742,500",,$0,$0
+"Stone, Gavin",Dodgers,RHP,"$742,500",,$0,$0
+"Kerkering, Orion",Phillies,RHP,"$742,500",,$0,$0
+"Abbott, Andrew",Reds,LHP,"$742,500",,$0,$0
+"De La Cruz, Elly",Reds,SS,"$742,500",,$0,$0
+"McLain, Matt",Reds,2,"$742,500",,$0,$0
+"Williamson, Brandon",Reds,LHP,"$742,500",,$0,$0
+"DeLuca, Jonny",Rays,OF,"$742,400",,$0,$0
+"Sousa, Bennett",Astros,LHP,"$742,300",,$0,$0
+"Mead, Curtis",Rays,INF,"$742,300",,$0,$0
+"Winn, Masyn",Cardinals,SS,"$742,250",,$0,$0
+"Rom, Drew",Cardinals,LHP,"$742,200",,$0,$0
+"Kessinger, Grae",Astros,INF,"$742,100",,$0,$0
+"Naylor, Bo",Guardians,C,"$742,100",,$0,$0
+"Williams, Gavin",Guardians,RHP,"$742,100",,$0,$0
+"Freeman, Tyler",Guardians,OF,"$742,000",,$0,$0
+"Cronin, Declan",Marlins,RHP,"$742,000",,$0,$0
+"Sanchez, Sixto",Marlins,RHP,"$742,000",,$0,$0
+"Grissom, Vaughn",Red Sox,2,"$742,000",,$0,$0
+"Doyle, Brenton",Rockies,OF,"$742,000",,$0,$0
+"Toglia, Michael",Rockies,1,"$742,000",,$0,$0
+"Vodnik, Victor",Rockies,RHP,"$742,000",,$0,$0
+"Loftin, Nick",Royals,INF,"$741,900",,$0,$0
+"Fitzgerald, Tyler",Giants,INF,"$741,875",,$0,$0
+"Lee, Korey",White Sox,C,"$741,850",,$0,$0
+"Waldron, Matt",Padres,RHP,"$741,800",,$0,$0
+"Hudson, Bryan",Brewers,LHP,"$741,700",,$0,$0
+"Siani, Mike",Cardinals,OF,"$741,650",,$0,$0
+"Dubin, Shawn",Astros,RHP,"$741,600",,$0,$0
+"Ortiz, Joey",Brewers,INF,"$741,500",,$0,$0
+"Busch, Michael",Cubs,DH,"$741,500",,$0,$0
+"Wicks, Jordan",Cubs,LHP,"$741,500",,$0,$0
+"Small, Ethan",Giants,LHP,"$741,300",,$0,$0
+"Hancock, Emerson",Mariners,RHP,"$741,300",,$0,$0
+"Jones, Jahmai",Yankees,INF,"$741,200",,$0,$0
+"Fry, David",Guardians,C,"$741,100",,$0,$0
+"Bolton, Cody",Mariners,RHP,"$741,100",,$0,$0
+"Latz, Jacob",Rangers,LHP,"$741,000",,$0,$0
+"Herrin, Tim",Guardians,LHP,"$740,800",,$0,$0
+"Gaddis, Hunter",Guardians,RHP,"$740,700",,$0,$0
+"Garcia, Deivi",White Sox,RHP,"$740,550",,$0,$0
+"Kilian, Caleb",Cubs,RHP,"$740,500",,$0,$0
+"Little, Luke",Cubs,LHP,"$740,500",,$0,$0
+"Simpson, Josh",Marlins,LHP,"$740,500",,$0,$0
+"O'Brien, Riley",Cardinals,RHP,"$740,450",,$0,$0
+"Berroa, Prelander",White Sox,RHP,"$740,350",,$0,$0
+"Shewmake, Braden",White Sox,SS,"$740,350",,$0,$0
+"Rocchio, Brayan",Guardians,SS,"$740,200",,$0,$0
+"Cavalli, Cade",Nationals,RHP,"$740,200",,$0,$0
+"Miller, Erik",Giants,LHP,"$740,000",,$0,$0
+"McCann, Kyle",Athletics,C,"$740,000",,$0,$0
+"Roupp, Landen",Giants,RHP,"$740,000",,$0,$0
+"Duarte, Daniel",Twins,RHP,"$740,000",,$0,$0
+"Murphy, Penn",Astros,RHP,"$740,000",,$0,$0
+"Chavez, Jesse",Braves,RHP,"$740,000",,$0,$0
+"Dunn, Oliver",Brewers,INF,"$740,000",,$0,$0
+"Barnhart, Tucker",Diamondbacks,C,"$740,000",,$0,
+"Jones, Jared",Pirates,RHP,"$740,000",,$0,$0
+"Langford, Wyatt",Rangers,OF,"$740,000",,$0,$0
+"Shenton, Austin",Rays,3,"$740,000",,$0,$0
+"Marte, Noelvi",Reds,3,"$740,000",,$0,$0
+"Leasure, Jordan",White Sox,RHP,"$740,000",,$0,$0
+"Boyle, Joe",Athletics,RHP,"$740,000",,$0,$0
+"Butler, Lawrence",Athletics,OF,"$740,000",,$0,$0
+"Gelof, Zack",Athletics,2,"$740,000",,$0,$0
+"Hernaiz, Darell",Athletics,INF,"$740,000",,$0,$0
+"Medina, Luis",Athletics,RHP,"$740,000",,$0,$0
+"Miller, Mason",Athletics,RHP,"$740,000",,$0,$0
+"Muller, Kyle",Athletics,LHP,"$740,000",,$0,$0
+"Spence, Mitch",Athletics,RHP,"$740,000",,$0,$0
+"Perdomo, Angel",Braves,LHP,"$740,000",,$0,$0
+"Fernandez, Ryan",Cardinals,RHP,"$740,000",,$0,$0
+"Scott II, Victor",Cardinals,OF,"$740,000",,$0,$0
+"Alexander, Blaze",Diamondbacks,INF,"$740,000",,$0,$0
+"Martinez, Angel",Guardians,INF,"$740,000",,$0,$0
+"Smith, Cade",Guardians,RHP,"$740,000",,$0,$0
+"Nunez, Nasim",Nationals,SS,"$740,000",,$0,$0
+"Kolek, Stephen",Padres,RHP,"$740,000",,$0,$0
+"Merrill, Jackson",Padres,OF,"$740,000",,$0,$0
+"Pauley, Graham",Padres,3,"$740,000",,$0,$0
+"Coleman, Carson",Rangers,RHP,"$740,000",,$0,$0
+"Mata, Bryan",Red Sox,RHP,"$740,000",,$0,$0
+"Slaten, Justin",Red Sox,RHP,"$740,000",,$0,$0
+"Encarnacion-Strand, Christian",Reds,1,"$740,000",,$0,$0
+"Molina, Anthony",Rockies,RHP,"$740,000",,$0,$0
+"Sauer, Matt",Royals,RHP,"$740,000",,$0,$0
+"Funderburk, Kody",Twins,LHP,"$740,000",,$0,$0
+"Drohan, Shane",White Sox,LHP,"$740,000",,$0,$0
+"Beeter, Clayton",Yankees,RHP,"$740,000",,$0,$0
+,,,,,,
+,,,,,,
+,,,,,,
+,data from usa today,,,,,
