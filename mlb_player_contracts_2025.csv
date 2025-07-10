@@ -1,0 +1,108 @@
+player,team,contract_value,years,average_annual,position,best_war,avg_war_position
+Shohei Ohtani,Dodgers,700000000,10,70000000,DH/SP,9.0,3.2
+Aaron Judge,Yankees,360000000,9,40000000,RF,7.8,2.9
+Juan Soto,Yankees,355000000,10,35500000,LF,6.5,2.6
+Mookie Betts,Dodgers,365000000,12,30416667,2B/RF,7.7,3.0
+Ronald Acuña Jr.,Braves,170000000,8,21250000,RF,8.1,2.9
+Vladimir Guerrero Jr.,Blue Jays,145000000,6,24166667,1B,5.6,2.4
+Fernando Tatis Jr.,Padres,340000000,14,24285714,RF,7.0,2.9
+Corey Seager,Rangers,325000000,10,32500000,SS,6.5,3.3
+Francisco Lindor,Mets,341000000,10,34100000,SS,6.1,3.3
+Matt Olson,Braves,168000000,8,21000000,1B,5.4,2.4
+Bryce Harper,Phillies,330000000,13,25384615,RF,6.9,2.9
+Trea Turner,Phillies,300000000,11,27272727,SS,6.3,3.3
+Xander Bogaerts,Padres,280000000,11,25454545,SS,5.2,3.3
+Julio Rodríguez,Mariners,210000000,7,30000000,CF,7.6,2.9
+Jose Ramirez,Guardians,141000000,7,20142857,3B,6.0,2.9
+Austin Riley,Braves,212000000,10,21200000,3B,5.8,2.9
+Alex Bregman,Astros,100000000,5,20000000,3B,5.2,2.9
+Kyle Tucker,Astros,120000000,6,20000000,LF,5.5,2.6
+Freddie Freeman,Dodgers,162000000,6,27000000,1B,6.7,2.4
+Marcus Semien,Rangers,175000000,7,25000000,2B,6.2,3.0
+Dansby Swanson,Cubs,177000000,7,25285714,SS,5.0,3.3
+Pete Alonso,Mets,150000000,6,25000000,1B,5.3,2.4
+Bo Bichette,Blue Jays,110000000,6,18333333,SS,4.9,3.3
+Luis Robert Jr.,White Sox,100000000,6,16666667,CF,6.2,2.9
+Ozzie Albies,Braves,70000000,7,10000000,2B,4.7,3.0
+Corbin Carroll,Diamondbacks,111000000,8,13875000,LF,6.1,2.6
+J.T. Realmuto,Phillies,115500000,5,23100000,C,5.5,2.1
+Will Smith,Dodgers,73000000,5,14600000,C,4.6,2.1
+Randy Arozarena,Rays,90000000,5,18000000,LF,4.8,2.6
+Jazz Chisholm Jr.,Marlins,56000000,5,11200000,CF,4.5,2.9
+Adley Rutschman,Orioles,105000000,6,17500000,C,6.0,2.1
+Bobby Witt Jr.,Royals,330000000,11,30000000,SS,7.0,3.3
+CJ Abrams,Nationals,75000000,6,12500000,SS,4.4,3.3
+Carlos Correa,Twins,200000000,6,33333333,SS,5.6,3.3
+Nolan Arenado,Cardinals,260000000,8,32500000,3B,5.9,2.9
+Jeff McNeil,Mets,50000000,4,12500000,2B,4.2,3.0
+Byron Buxton,Twins,100000000,7,14285714,CF,5.8,2.9
+Josh Jung,Rangers,32000000,4,8000000,3B,4.4,2.9
+Yordan Alvarez,Astros,115000000,6,19166667,DH/LF,5.7,2.8
+Teoscar Hernández,Mariners,70000000,4,17500000,RF,4.5,2.9
+Tommy Edman,Cardinals,65000000,5,13000000,CF/SS,4.8,3.1
+Paul Goldschmidt,Cardinals,130000000,5,26000000,1B,5.9,2.4
+Logan Webb,Giants,90000000,5,18000000,SP,5.7,2.8
+Zac Gallen,Diamondbacks,120000000,6,20000000,SP,6.1,2.8
+Spencer Strider,Braves,110000000,6,18333333,SP,6.4,2.8
+Justin Steele,Cubs,80000000,5,16000000,SP,5.5,2.8
+Gerrit Cole,Yankees,324000000,9,36000000,SP,7.6,2.8
+Blake Snell,Giants,135000000,5,27000000,SP,5.9,2.8
+Sandy Alcantara,Marlins,56000000,5,11200000,SP,6.0,2.8
+Corbin Burnes,Orioles,170000000,7,24285714,SP,6.3,2.8
+Mitch Keller,Pirates,77000000,6,12833333,SP,4.7,2.8
+Pablo López,Twins,73500000,4,18375000,SP,5.2,2.8
+Tarik Skubal,Tigers,40000000,4,10000000,SP,5.4,2.8
+Yu Darvish,Padres,108000000,6,18000000,SP,5.8,2.8
+Chris Bassitt,Blue Jays,63000000,3,21000000,SP,4.6,2.8
+Kevin Gausman,Blue Jays,110000000,5,22000000,SP,5.5,2.8
+Brandon Woodruff,Brewers,100000000,5,20000000,SP,5.2,2.8
+Joe Musgrove,Padres,100000000,5,20000000,SP,4.9,2.8
+Max Fried,Braves,135000000,6,22500000,SP,6.0,2.8
+Tyler Glasnow,Dodgers,110000000,5,22000000,SP,5.3,2.8
+Shane Bieber,Guardians,95000000,5,19000000,SP,5.1,2.8
+Jesús Luzardo,Marlins,73000000,5,14600000,SP,4.6,2.8
+Marcus Stroman,Yankees,37000000,2,18500000,SP,4.2,2.8
+Hunter Greene,Reds,50000000,6,8333333,SP,4.5,2.8
+Nick Lodolo,Reds,60000000,6,10000000,SP,4.4,2.8
+Kyle Schwarber,Phillies,79000000,4,19750000,DH/LF,4.7,2.7
+Eloy Jiménez,White Sox,43000000,6,7166667,DH/LF,4.2,2.7
+Jorge Soler,Giants,42000000,3,14000000,DH,4.1,2.7
+Josh Bell,Marlins,33000000,2,16500000,1B/DH,4.0,2.3
+Christian Walker,Diamondbacks,65000000,4,16250000,1B,4.9,2.4
+Nathaniel Lowe,Rangers,49000000,4,12250000,1B,4.3,2.4
+Ty France,Mariners,41000000,4,10250000,1B,4.1,2.4
+Ryan Mountcastle,Orioles,45000000,4,11250000,1B,4.0,2.4
+Ke'Bryan Hayes,Pirates,70000000,8,8750000,3B,4.6,2.9
+Eugenio Suárez,Diamondbacks,24000000,2,12000000,3B,4.1,2.9
+Jeimer Candelario,Reds,45000000,3,15000000,3B,4.0,2.9
+Anthony Rendon,Angels,245000000,7,35000000,3B,4.7,2.9
+Andrés Giménez,Guardians,106000000,7,15142857,2B,4.6,3.0
+Nico Hoerner,Cubs,35000000,3,11666667,2B,4.4,3.0
+Gleyber Torres,Yankees,95000000,6,15833333,2B,4.3,3.0
+Ketel Marte,Diamondbacks,76100000,5,15220000,2B,4.5,3.0
+Brandon Lowe,Rays,24000000,4,6000000,2B,4.0,3.0
+JP Crawford,Mariners,51000000,4,12750000,SS,4.1,3.3
+Amed Rosario,Rays,18000000,2,9000000,SS,3.9,3.3
+Willy Adames,Brewers,85000000,4,21250000,SS,4.4,3.3
+Brandon Nimmo,Mets,162000000,8,20250000,CF,5.3,2.9
+Cody Bellinger,Cubs,80000000,3,26666667,CF,5.4,2.9
+Michael Harris II,Braves,72000000,8,9000000,CF,4.6,2.9
+Ian Happ,Cubs,61000000,3,20333333,LF,4.2,2.6
+Tyler O'Neill,Red Sox,53000000,5,10600000,LF,4.0,2.6
+Bryan Reynolds,Pirates,100000000,8,12500000,LF,4.8,2.6
+Lourdes Gurriel Jr.,Diamondbacks,42000000,3,14000000,LF,4.1,2.6
+Harrison Bader,Mets,20000000,2,10000000,CF,3.8,2.9
+Starling Marte,Mets,78000000,4,19500000,RF,4.2,2.9
+Hunter Renfroe,Royals,13000000,1,13000000,RF,3.9,2.9
+Max Kepler,Twins,35000000,3,11666667,RF,4.0,2.9
+Alex Verdugo,Yankees,39000000,2,19500000,RF,3.8,2.9
+Jorge Polanco,Mariners,70000000,4,17500000,2B,4.2,3.0
+Ha-Seong Kim,Padres,28000000,4,7000000,2B/SS,4.3,3.1
+Sean Murphy,Braves,73000000,6,12166667,C,4.5,2.1
+Salvador Perez,Royals,82000000,4,20500000,C,4.2,2.1
+William Contreras,Brewers,72000000,5,14400000,C,4.6,2.1
+Tyler Stephenson,Reds,35000000,4,8750000,C,4.0,2.1
+Alejandro Kirk,Blue Jays,33000000,4,8250000,C,3.9,2.1
+Reese McGuire,Red Sox,9000000,2,4500000,C,3.8,2.1
+Danny Jansen,Blue Jays,26000000,3,8666667,C,3.8,2.1
+Jonah Heim,Rangers,49000000,5,9800000,C,4.3,2.1
